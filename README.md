@@ -8,7 +8,7 @@ This is a simple React application that serves as the web-based frontend for the
 
 * **Token-Based Activation**: Securely activates user accounts using a unique token sent via email.
 * **Password Creation**: Provides a clean interface for users to create and confirm their new password.
-* **API Integration**: Communicates with the T3 Backend API to validate the token and update the user's account.
+* **API Integration**: Communicates with the mercor Backend API to validate the token and update the user's account.
 * **Success & Download**: After successful activation, it directs the user to a page where they can download the desktop tracking application.
 
 ---
